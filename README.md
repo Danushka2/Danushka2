@@ -8,7 +8,7 @@
 ## I'm a Data Science Undergraduate
 
 - 👨‍💻 I’m currently working on machine learning and data mining projects using python.
-- 📚 I’m currently learning everything about Frontend and Backend technologies 😅
+- 📚 Learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 ---
