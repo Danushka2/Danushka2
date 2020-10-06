@@ -1,7 +1,4 @@
 ### Hi there 👋 I'm [Danushka!](https://github.com/Danushka2/Danushka2/)
-![Profile views counter](https://caneco.dev/github-profile-view-counter.svg)
-
-<br/>
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
