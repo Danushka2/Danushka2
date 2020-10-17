@@ -38,7 +38,3 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat-square&logo=heroku)
 <br/>
 
-<p  align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danushka2&show_icons=true&theme=dark" alt="github stats"/></br>
-</p>
-
