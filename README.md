@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm [Danushka!](https://github.com/Danushka2/Danushka2/)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/oFvFtrhrmIFFe/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 ## I'm a Data Science Undergraduate
 
