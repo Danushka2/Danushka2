@@ -20,7 +20,6 @@
 ![Django](https://img.shields.io/badge/-Django-222222?style=flat&logo=django)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
-![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 ![Firebase](https://img.shields.io/badge/Firebase-222222?style=flat-square&logo=firebase)
 ![AzureCloud](https://img.shields.io/badge/Microsoft%20Azure-222222?style=flat-square&logo=microsoft-azure)
 ![Amazon Web Services](https://img.shields.io/badge/-Amazon%20Web%20Services-222222?style=flat-square&logo=Amazon-Web-Service)
@@ -28,4 +27,3 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Heroku](https://img.shields.io/badge/-Heroku-222222?style=flat-square&logo=heroku)
 <br/>
-
